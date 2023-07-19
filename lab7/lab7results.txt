@@ -1,0 +1,166 @@
+Test Hash Table with Chaining
+resize 22
+resize 44
+resize 88
+resize 176
+resize 352
+resize 704
+resize 1408
+resize 2816
+resize 5632
+resize 11264
+construction time = 242
+total number of item comparisons  = 31635
+load factor = 72.01704545454545
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 280
+Test Hash Table with Linear Probing
+resize 22
+resize 44
+resize 88
+resize 176
+resize 352
+resize 704
+resize 1408
+resize 2816
+resize 5632
+resize 11264
+construction time = 230
+total number of item comparisons  = 38043
+load factor = 78.55113636363636
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 3 times
+contains 'path' 8 times
+contains 'the' 2478 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 263
+Test Hash Table with Chaining
+resize 22
+resize 44
+resize 88
+resize 176
+resize 352
+resize 704
+resize 1408
+resize 2816
+resize 5632
+resize 11264
+resize 22528
+construction time = 267
+total number of item comparisons  = 35265
+load factor = 36.00852272727273
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 320
+Test Hash Table with Chaining
+resize 22
+resize 44
+resize 88
+resize 176
+resize 352
+resize 704
+resize 1408
+resize 2816
+resize 5632
+resize 11264
+construction time = 234
+total number of item comparisons  = 34018
+load factor = 72.01704545454545
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 269
+Test Hash Table with Linear Probing
+resize 22
+resize 44
+resize 88
+resize 176
+resize 352
+resize 704
+resize 1408
+resize 2816
+resize 5632
+resize 11264
+resize 22528
+construction time = 243
+total number of item comparisons  = 27548
+load factor = 39.80823863636363
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 1 times
+contains 'path' null times
+contains 'the' 2716 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 278
+Test Hash Table with Linear Probing
+resize 22
+resize 44
+resize 88
+resize 176
+resize 352
+resize 704
+resize 1408
+resize 2816
+resize 5632
+resize 11264
+construction time = 240
+total number of item comparisons  = 46328
+load factor = 79.7762784090909
+contains 'and' 2974 times
+contains 'astonished' 3 times
+contains 'boat' 3 times
+contains 'path' 8 times
+contains 'the' 2282 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 274
+Test HashMap
+HashMap construction time = 247
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' null times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+total running time = 274
+Test WordList
+linked list construction time = 10253
+number of linked list nodes = 8111
+
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' 0 times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+
+sorting words in lexicographical order
+first 10 words in lexicographical order are:
